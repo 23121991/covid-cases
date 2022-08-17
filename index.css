@@ -1,0 +1,38 @@
+div{
+    size: 40px;
+    text-align: center;
+background-color: cornflowerblue;
+
+}
+button{
+    background-color: rgb(227, 62, 227);
+    color: brown;
+    padding-left: 2px;
+
+    
+}
+h4{
+
+    font-size: 60px;
+    font-weight: 100;
+    color: rgba(24, 63, 69, 0.427);
+    font-style: italic;
+    font-feature-settings: "c2pc";
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(239, 230, 182);
+}
+
+
+
+div#Active{
+    font-size: 40px;
+color: red;
+}
+div#Recover{
+    font-size: 30px;
+    color: chartreuse;
+}
+div#Deaths{
+    font-size: 20px;
+    color: orange;
+}
